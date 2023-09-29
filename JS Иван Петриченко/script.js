@@ -30,7 +30,6 @@
 // const name = "Ramzil";
 // alert(`Hello, ${name}`);
 
-
 // let incr = 10,
 //     decr = 10;
 
@@ -39,3 +38,7 @@
 
 // console.log(incr);
 // console.log(decr);
+
+const a = 10,
+  b = 12;
+console.log(a + b);
