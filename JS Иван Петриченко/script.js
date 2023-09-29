@@ -39,6 +39,6 @@
 // console.log(incr);
 // console.log(decr);
 
-const a = 10,
-  b = 12;
-console.log(a + b);
+// const a = 10,
+//   b = 12;
+// console.log(a + b);
